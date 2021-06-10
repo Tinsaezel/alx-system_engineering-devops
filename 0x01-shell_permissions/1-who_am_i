@@ -1,2 +1,2 @@
 #!/bin/bash
-users [/tmp/h$]
+who [ option ] [ file ] [ am i ]
