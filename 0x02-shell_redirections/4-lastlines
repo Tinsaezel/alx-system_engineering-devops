@@ -1,3 +1,4 @@
+#!/bin/bash
 _uucp:*:4:4:Unix to Unix Copy Protocol:/var/spool/uucp:/usr/sbin/uucico
 _taskgated:*:13:13:Task Gate Daemon:/var/empty:/usr/bin/false
 _networkd:*:24:24:Network Services:/var/networkd:/usr/bin/false
